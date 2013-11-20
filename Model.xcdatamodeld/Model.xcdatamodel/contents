@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3400" systemVersion="13A603" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="CookInfo" representedClassName="CookInfo" syncable="YES">
+        <attribute name="createdby" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imagename" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="introduction" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="material" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="record" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tips" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="triedtimes" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="materialinfos" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MaterialInfo" syncable="YES"/>
+        <relationship name="stepinfos" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="StepInfo" syncable="YES"/>
+    </entity>
+    <entity name="MaterialInfo" syncable="YES">
+        <attribute name="materialname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="StepInfo" syncable="YES">
+        <attribute name="imagename" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="introduction" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sequence" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CookInfo" positionX="-245" positionY="117" width="128" height="193"/>
+        <element name="MaterialInfo" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="StepInfo" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

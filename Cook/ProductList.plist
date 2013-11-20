@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>红烧肉</string>
+		<key>Material</key>
+		<string>五花肉 八角 花椒 香叶 干辣椒 葱...</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>五花肉爆炒杏鲍菇</string>
+		<key>Material</key>
+		<string>杏鲍菇 尖椒 五花肉 生姜...</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>81</integer>
+		<key>ImageName</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>冬菇焖鸡</string>
+		<key>Material</key>
+		<string>三黄鸡 冬菇 木耳 针菜 葱姜蒜...</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>酸辣娃娃菜</string>
+		<key>Material</key>
+		<string>娃娃菜 番茄 火腿 小米椒 大蒜...</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>香辣口水鸡</string>
+		<key>Material</key>
+		<string>鸡腿 香葱 姜片 花椒...</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>娃娃菜炒香菇</string>
+		<key>Material</key>
+		<string>娃娃菜 香菇 盐 油</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>汁浇西兰花</string>
+		<key>Material</key>
+		<string>西兰花 鸡蛋 大蒜 香葱 核桃油</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>手撕杏鲍菇</string>
+		<key>Material</key>
+		<string>杏鲍菇 香葱 生姜 蒜 小米椒</string>
+		<key>Record</key>
+		<string>8</string>
+		<key>TriedTimes</key>
+		<integer>9</integer>
+		<key>ImageName</key>
+		<string>8</string>
+	</dict>
+</array>
+</plist>
